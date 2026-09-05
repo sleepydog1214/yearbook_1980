@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Raw phone captures of the yearbook pages — originals stay local
+/IMG_*.jpg
+
+# Audio and rendered videos (soundtrack audio is copyrighted; videos are large)
+*.mp3
+*.webm
+*.mp4
+
+# Pipeline caches (regenerable from the scans)
+/output/cleaned/
+/output/colorized/
+
+# Detection overlays from --debug runs
+/output/site/debug/
