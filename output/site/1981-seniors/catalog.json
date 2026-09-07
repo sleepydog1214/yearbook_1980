@@ -1,5 +1,6 @@
 {
   "book": "Clarion 1981 Seniors",
+  "pages": 134,
   "photos": [
     {
       "id": "p134_1",
@@ -11,8 +12,8 @@
         1721,
         662
       ],
-      "name": "",
-      "bw": "../bw/p134_1.jpg",
+      "name": "Daniel Zaremba",
+      "bw": "bw/p134_1.jpg",
       "color": "color/p134_1.jpg",
       "bw_hi": "bw_hi/p134_1.jpg",
       "width": 528,
@@ -32,7 +33,7 @@
         1328
       ],
       "name": "Mary Quinn",
-      "bw": "../bw/p134_2.jpg",
+      "bw": "bw/p134_2.jpg",
       "color": "color/p134_2.jpg",
       "bw_hi": "bw_hi/p134_2.jpg",
       "width": 530,
@@ -51,8 +52,8 @@
         1226,
         1237
       ],
-      "name": "",
-      "bw": "../bw/p134_3.jpg",
+      "name": "Jon Welker",
+      "bw": "bw/p134_3.jpg",
       "color": "color/p134_3.jpg",
       "bw_hi": "bw_hi/p134_3.jpg",
       "width": 262,
@@ -72,7 +73,7 @@
         2012
       ],
       "name": "Mike Meade",
-      "bw": "../bw/p134_4.jpg",
+      "bw": "bw/p134_4.jpg",
       "color": "color/p134_4.jpg",
       "bw_hi": "bw_hi/p134_4.jpg",
       "width": 666,
@@ -91,8 +92,8 @@
         1213,
         2043
       ],
-      "name": "",
-      "bw": "../bw/p134_5.jpg",
+      "name": "MarySue Grzybowski",
+      "bw": "bw/p134_5.jpg",
       "color": "color/p134_5.jpg",
       "bw_hi": "bw_hi/p134_5.jpg",
       "width": 618,
@@ -112,7 +113,7 @@
         802
       ],
       "name": "Michelle Carson",
-      "bw": "../bw/p135_1.jpg",
+      "bw": "bw/p135_1.jpg",
       "color": "color/p135_1.jpg",
       "bw_hi": "bw_hi/p135_1.jpg",
       "width": 742,
@@ -132,7 +133,7 @@
         1444
       ],
       "name": "",
-      "bw": "../bw/p135_2.jpg",
+      "bw": "bw/p135_2.jpg",
       "color": "color/p135_2.jpg",
       "bw_hi": "bw_hi/p135_2.jpg",
       "width": 514,
@@ -152,7 +153,7 @@
         1388
       ],
       "name": "Brian Quinn",
-      "bw": "../bw/p135_3.jpg",
+      "bw": "bw/p135_3.jpg",
       "color": "color/p135_3.jpg",
       "bw_hi": "bw_hi/p135_3.jpg",
       "width": 634,
@@ -171,8 +172,8 @@
         822,
         2028
       ],
-      "name": "",
-      "bw": "../bw/p135_4.jpg",
+      "name": "Julie Sullivan",
+      "bw": "bw/p135_4.jpg",
       "color": "color/p135_4.jpg",
       "bw_hi": "bw_hi/p135_4.jpg",
       "width": 1116,
@@ -192,7 +193,7 @@
         2152
       ],
       "name": "Jack Furlong",
-      "bw": "../bw/p135_5.jpg",
+      "bw": "bw/p135_5.jpg",
       "color": "color/p135_5.jpg",
       "bw_hi": "bw_hi/p135_5.jpg",
       "width": 754,
@@ -212,7 +213,7 @@
         1997
       ],
       "name": "Shannon Chiado",
-      "bw": "../bw/p135_6.jpg",
+      "bw": "bw/p135_6.jpg",
       "color": "color/p135_6.jpg",
       "bw_hi": "bw_hi/p135_6.jpg",
       "width": 728,
@@ -232,7 +233,7 @@
         747
       ],
       "name": "Kevin Adams",
-      "bw": "../bw/p136_1.jpg",
+      "bw": "bw/p136_1.jpg",
       "color": "color/p136_1.jpg",
       "bw_hi": "bw_hi/p136_1.jpg",
       "width": 724,
@@ -251,8 +252,8 @@
         1625,
         1289
       ],
-      "name": "",
-      "bw": "../bw/p136_10.jpg",
+      "name": "Mary Bihun",
+      "bw": "bw/p136_10.jpg",
       "color": "color/p136_10.jpg",
       "bw_hi": "bw_hi/p136_10.jpg",
       "width": 720,
@@ -271,8 +272,8 @@
         1998,
         1209
       ],
-      "name": "",
-      "bw": "../bw/p136_11.jpg",
+      "name": "Michael Birch",
+      "bw": "bw/p136_11.jpg",
       "color": "color/p136_11.jpg",
       "bw_hi": "bw_hi/p136_11.jpg",
       "width": 582,
@@ -292,7 +293,7 @@
         1960
       ],
       "name": "Donald Boyk",
-      "bw": "../bw/p136_12.jpg",
+      "bw": "bw/p136_12.jpg",
       "color": "color/p136_12.jpg",
       "bw_hi": "bw_hi/p136_12.jpg",
       "width": 684,
@@ -312,7 +313,7 @@
         2554
       ],
       "name": "",
-      "bw": "../bw/p136_13.jpg",
+      "bw": "bw/p136_13.jpg",
       "color": "color/p136_13.jpg",
       "bw_hi": "bw_hi/p136_13.jpg",
       "width": 2076,
@@ -332,7 +333,7 @@
         747
       ],
       "name": "Paul Alcala",
-      "bw": "../bw/p136_2.jpg",
+      "bw": "bw/p136_2.jpg",
       "color": "color/p136_2.jpg",
       "bw_hi": "bw_hi/p136_2.jpg",
       "width": 690,
@@ -351,8 +352,8 @@
         1131,
         620
       ],
-      "name": "",
-      "bw": "../bw/p136_3.jpg",
+      "name": "Timothy Backiel",
+      "bw": "bw/p136_3.jpg",
       "color": "color/p136_3.jpg",
       "bw_hi": "bw_hi/p136_3.jpg",
       "width": 364,
@@ -371,8 +372,8 @@
         1636,
         756
       ],
-      "name": "",
-      "bw": "../bw/p136_4.jpg",
+      "name": "Leroy Barber",
+      "bw": "bw/p136_4.jpg",
       "color": "color/p136_4.jpg",
       "bw_hi": "bw_hi/p136_4.jpg",
       "width": 760,
@@ -392,7 +393,7 @@
         729
       ],
       "name": "Laura Barclay",
-      "bw": "../bw/p136_5.jpg",
+      "bw": "bw/p136_5.jpg",
       "color": "color/p136_5.jpg",
       "bw_hi": "bw_hi/p136_5.jpg",
       "width": 684,
@@ -412,7 +413,7 @@
         742
       ],
       "name": "",
-      "bw": "../bw/p136_6.jpg",
+      "bw": "bw/p136_6.jpg",
       "color": "color/p136_6.jpg",
       "bw_hi": "bw_hi/p136_6.jpg",
       "width": 1044,
@@ -432,7 +433,7 @@
         1356
       ],
       "name": "William Bezverkov",
-      "bw": "../bw/p136_7.jpg",
+      "bw": "bw/p136_7.jpg",
       "color": "color/p136_7.jpg",
       "bw_hi": "bw_hi/p136_7.jpg",
       "width": 728,
@@ -451,8 +452,8 @@
         860,
         1240
       ],
-      "name": "",
-      "bw": "../bw/p136_8.jpg",
+      "name": "Charles Bezzina",
+      "bw": "bw/p136_8.jpg",
       "color": "color/p136_8.jpg",
       "bw_hi": "bw_hi/p136_8.jpg",
       "width": 560,
@@ -472,7 +473,7 @@
         1358
       ],
       "name": "Lynne Bielak",
-      "bw": "../bw/p136_9.jpg",
+      "bw": "bw/p136_9.jpg",
       "color": "color/p136_9.jpg",
       "bw_hi": "bw_hi/p136_9.jpg",
       "width": 750,
@@ -491,8 +492,8 @@
         367,
         616
       ],
-      "name": "",
-      "bw": "../bw/p137_1.jpg",
+      "name": "Peter Battle",
+      "bw": "bw/p137_1.jpg",
       "color": "color/p137_1.jpg",
       "bw_hi": "bw_hi/p137_1.jpg",
       "width": 508,
@@ -512,7 +513,7 @@
         1340
       ],
       "name": "Bernadette Boruta",
-      "bw": "../bw/p137_10.jpg",
+      "bw": "bw/p137_10.jpg",
       "color": "color/p137_10.jpg",
       "bw_hi": "bw_hi/p137_10.jpg",
       "width": 666,
@@ -532,7 +533,7 @@
         1951
       ],
       "name": "Katherine Brogan",
-      "bw": "../bw/p137_11.jpg",
+      "bw": "bw/p137_11.jpg",
       "color": "color/p137_11.jpg",
       "bw_hi": "bw_hi/p137_11.jpg",
       "width": 750,
@@ -552,7 +553,7 @@
         1876
       ],
       "name": "Ann Marie Brookshire",
-      "bw": "../bw/p137_12.jpg",
+      "bw": "bw/p137_12.jpg",
       "color": "color/p137_12.jpg",
       "bw_hi": "bw_hi/p137_12.jpg",
       "width": 694,
@@ -571,8 +572,8 @@
         1107,
         1791
       ],
-      "name": "",
-      "bw": "../bw/p137_13.jpg",
+      "name": "Michael Bugiel",
+      "bw": "bw/p137_13.jpg",
       "color": "color/p137_13.jpg",
       "bw_hi": "bw_hi/p137_13.jpg",
       "width": 512,
@@ -591,8 +592,8 @@
         1580,
         1951
       ],
-      "name": "",
-      "bw": "../bw/p137_14.jpg",
+      "name": "Michael Burton",
+      "bw": "bw/p137_14.jpg",
       "color": "color/p137_14.jpg",
       "bw_hi": "bw_hi/p137_14.jpg",
       "width": 830,
@@ -612,7 +613,7 @@
         1951
       ],
       "name": "John Bustamante",
-      "bw": "../bw/p137_15.jpg",
+      "bw": "bw/p137_15.jpg",
       "color": "color/p137_15.jpg",
       "bw_hi": "bw_hi/p137_15.jpg",
       "width": 680,
@@ -632,12 +633,12 @@
         2518
       ],
       "name": "",
-      "bw": "../bw/p137_16.jpg",
+      "bw": "bw/p137_16.jpg",
       "color": "color/p137_16.jpg",
       "bw_hi": "bw_hi/p137_16.jpg",
       "width": 1222,
       "height": 992,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -652,12 +653,12 @@
         2525
       ],
       "name": "",
-      "bw": "../bw/p137_17.jpg",
+      "bw": "bw/p137_17.jpg",
       "color": "color/p137_17.jpg",
       "bw_hi": "bw_hi/p137_17.jpg",
       "width": 1128,
       "height": 982,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -672,12 +673,12 @@
         2516
       ],
       "name": "",
-      "bw": "../bw/p137_18.jpg",
+      "bw": "bw/p137_18.jpg",
       "color": "color/p137_18.jpg",
       "bw_hi": "bw_hi/p137_18.jpg",
       "width": 400,
       "height": 970,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -692,12 +693,12 @@
         2520
       ],
       "name": "",
-      "bw": "../bw/p137_19.jpg",
+      "bw": "bw/p137_19.jpg",
       "color": "color/p137_19.jpg",
       "bw_hi": "bw_hi/p137_19.jpg",
       "width": 1076,
       "height": 986,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -711,8 +712,8 @@
         760,
         611
       ],
-      "name": "",
-      "bw": "../bw/p137_2.jpg",
+      "name": "Leonard Benfant",
+      "bw": "bw/p137_2.jpg",
       "color": "color/p137_2.jpg",
       "bw_hi": "bw_hi/p137_2.jpg",
       "width": 510,
@@ -732,7 +733,7 @@
         749
       ],
       "name": "Susan Berry",
-      "bw": "../bw/p137_3.jpg",
+      "bw": "bw/p137_3.jpg",
       "color": "color/p137_3.jpg",
       "bw_hi": "bw_hi/p137_3.jpg",
       "width": 690,
@@ -751,8 +752,8 @@
         1462,
         742
       ],
-      "name": "",
-      "bw": "../bw/p137_4.jpg",
+      "name": "David Beschke",
+      "bw": "bw/p137_4.jpg",
       "color": "color/p137_4.jpg",
       "bw_hi": "bw_hi/p137_4.jpg",
       "width": 644,
@@ -772,7 +773,7 @@
         729
       ],
       "name": "Debra Beschke",
-      "bw": "../bw/p137_5.jpg",
+      "bw": "bw/p137_5.jpg",
       "color": "color/p137_5.jpg",
       "bw_hi": "bw_hi/p137_5.jpg",
       "width": 742,
@@ -791,8 +792,8 @@
         371,
         1211
       ],
-      "name": "",
-      "bw": "../bw/p137_6.jpg",
+      "name": "Mark Blaskiewicz",
+      "bw": "bw/p137_6.jpg",
       "color": "color/p137_6.jpg",
       "bw_hi": "bw_hi/p137_6.jpg",
       "width": 524,
@@ -811,8 +812,8 @@
         776,
         1349
       ],
-      "name": "Skiewicz James Blazo",
-      "bw": "../bw/p137_7.jpg",
+      "name": "James Blazo",
+      "bw": "bw/p137_7.jpg",
       "color": "color/p137_7.jpg",
       "bw_hi": "bw_hi/p137_7.jpg",
       "width": 1014,
@@ -831,8 +832,8 @@
         1120,
         1269
       ],
-      "name": "",
-      "bw": "../bw/p137_8.jpg",
+      "name": "John Blazo",
+      "bw": "bw/p137_8.jpg",
       "color": "color/p137_8.jpg",
       "bw_hi": "bw_hi/p137_8.jpg",
       "width": 510,
@@ -851,8 +852,8 @@
         1478,
         1142
       ],
-      "name": "",
-      "bw": "../bw/p137_9.jpg",
+      "name": "Thomas Blessing",
+      "bw": "bw/p137_9.jpg",
       "color": "color/p137_9.jpg",
       "bw_hi": "bw_hi/p137_9.jpg",
       "width": 542,
@@ -871,8 +872,8 @@
         530,
         498
       ],
-      "name": "",
-      "bw": "../bw/p138_1.jpg",
+      "name": "Teresa Calderon",
+      "bw": "bw/p138_1.jpg",
       "color": "color/p138_1.jpg",
       "bw_hi": "bw_hi/p138_1.jpg",
       "width": 728,
@@ -892,7 +893,7 @@
         1250
       ],
       "name": "John DaMour",
-      "bw": "../bw/p138_10.jpg",
+      "bw": "bw/p138_10.jpg",
       "color": "color/p138_10.jpg",
       "bw_hi": "bw_hi/p138_10.jpg",
       "width": 692,
@@ -911,8 +912,8 @@
         483,
         1859
       ],
-      "name": "Armand Del Rosario",
-      "bw": "../bw/p138_11.jpg",
+      "name": "Armand del Rosario",
+      "bw": "bw/p138_11.jpg",
       "color": "color/p138_11.jpg",
       "bw_hi": "bw_hi/p138_11.jpg",
       "width": 566,
@@ -932,7 +933,7 @@
         1859
       ],
       "name": "Michael Denton",
-      "bw": "../bw/p138_12.jpg",
+      "bw": "bw/p138_12.jpg",
       "color": "color/p138_12.jpg",
       "bw_hi": "bw_hi/p138_12.jpg",
       "width": 664,
@@ -952,7 +953,7 @@
         1780
       ],
       "name": "Mary Depper",
-      "bw": "../bw/p138_13.jpg",
+      "bw": "bw/p138_13.jpg",
       "color": "color/p138_13.jpg",
       "bw_hi": "bw_hi/p138_13.jpg",
       "width": 668,
@@ -971,8 +972,8 @@
         1560,
         1866
       ],
-      "name": "",
-      "bw": "../bw/p138_14.jpg",
+      "name": "Andrew Dodt",
+      "bw": "bw/p138_14.jpg",
       "color": "color/p138_14.jpg",
       "bw_hi": "bw_hi/p138_14.jpg",
       "width": 638,
@@ -992,7 +993,7 @@
         1863
       ],
       "name": "James Dolkowski",
-      "bw": "../bw/p138_15.jpg",
+      "bw": "bw/p138_15.jpg",
       "color": "color/p138_15.jpg",
       "bw_hi": "bw_hi/p138_15.jpg",
       "width": 714,
@@ -1012,7 +1013,7 @@
         2425
       ],
       "name": "Annette Dubois",
-      "bw": "../bw/p138_16.jpg",
+      "bw": "bw/p138_16.jpg",
       "color": "color/p138_16.jpg",
       "bw_hi": "bw_hi/p138_16.jpg",
       "width": 750,
@@ -1032,12 +1033,12 @@
         2562
       ],
       "name": "",
-      "bw": "../bw/p138_17.jpg",
+      "bw": "bw/p138_17.jpg",
       "color": "color/p138_17.jpg",
       "bw_hi": "bw_hi/p138_17.jpg",
       "width": 430,
       "height": 1262,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -1052,7 +1053,7 @@
         2562
       ],
       "name": "",
-      "bw": "../bw/p138_18.jpg",
+      "bw": "bw/p138_18.jpg",
       "color": "color/p138_18.jpg",
       "bw_hi": "bw_hi/p138_18.jpg",
       "width": 1716,
@@ -1071,8 +1072,8 @@
         534,
         2685
       ],
-      "name": "",
-      "bw": "../bw/p138_19.jpg",
+      "name": "Mark Doyle",
+      "bw": "bw/p138_19.jpg",
       "color": "color/p138_19.jpg",
       "bw_hi": "bw_hi/p138_19.jpg",
       "width": 1024,
@@ -1091,8 +1092,8 @@
         1208,
         501
       ],
-      "name": "",
-      "bw": "../bw/p138_2.jpg",
+      "name": "Ronald Charboneau",
+      "bw": "bw/p138_2.jpg",
       "color": "color/p138_2.jpg",
       "bw_hi": "bw_hi/p138_2.jpg",
       "width": 516,
@@ -1111,8 +1112,8 @@
         1612,
         498
       ],
-      "name": "",
-      "bw": "../bw/p138_3.jpg",
+      "name": "Donald Childs",
+      "bw": "bw/p138_3.jpg",
       "color": "color/p138_3.jpg",
       "bw_hi": "bw_hi/p138_3.jpg",
       "width": 574,
@@ -1132,7 +1133,7 @@
         622
       ],
       "name": "Lisa Carr",
-      "bw": "../bw/p138_4.jpg",
+      "bw": "bw/p138_4.jpg",
       "color": "color/p138_4.jpg",
       "bw_hi": "bw_hi/p138_4.jpg",
       "width": 726,
@@ -1151,8 +1152,8 @@
         1991,
         604
       ],
-      "name": "",
-      "bw": "../bw/p138_5.jpg",
+      "name": "Jacqueline Ciarelli",
+      "bw": "bw/p138_5.jpg",
       "color": "color/p138_5.jpg",
       "bw_hi": "bw_hi/p138_5.jpg",
       "width": 718,
@@ -1171,8 +1172,8 @@
         1226,
         1093
       ],
-      "name": "",
-      "bw": "../bw/p138_6.jpg",
+      "name": "Madonna Curran",
+      "bw": "bw/p138_6.jpg",
       "color": "color/p138_6.jpg",
       "bw_hi": "bw_hi/p138_6.jpg",
       "width": 652,
@@ -1192,7 +1193,7 @@
         1188
       ],
       "name": "Patrice Czapski",
-      "bw": "../bw/p138_7.jpg",
+      "bw": "bw/p138_7.jpg",
       "color": "color/p138_7.jpg",
       "bw_hi": "bw_hi/p138_7.jpg",
       "width": 764,
@@ -1212,7 +1213,7 @@
         1235
       ],
       "name": "Louise Creagh",
-      "bw": "../bw/p138_8.jpg",
+      "bw": "bw/p138_8.jpg",
       "color": "color/p138_8.jpg",
       "bw_hi": "bw_hi/p138_8.jpg",
       "width": 626,
@@ -1232,7 +1233,7 @@
         1235
       ],
       "name": "Robert Cupchak",
-      "bw": "../bw/p138_9.jpg",
+      "bw": "bw/p138_9.jpg",
       "color": "color/p138_9.jpg",
       "bw_hi": "bw_hi/p138_9.jpg",
       "width": 570,
@@ -1252,7 +1253,7 @@
         620
       ],
       "name": "Lisa Ciotta",
-      "bw": "../bw/p139_1.jpg",
+      "bw": "bw/p139_1.jpg",
       "color": "color/p139_1.jpg",
       "bw_hi": "bw_hi/p139_1.jpg",
       "width": 702,
@@ -1272,7 +1273,7 @@
         1224
       ],
       "name": "Karen DeGuise",
-      "bw": "../bw/p139_10.jpg",
+      "bw": "bw/p139_10.jpg",
       "color": "color/p139_10.jpg",
       "bw_hi": "bw_hi/p139_10.jpg",
       "width": 728,
@@ -1291,8 +1292,8 @@
         1506,
         1836
       ],
-      "name": "Nancy Donovan Four",
-      "bw": "../bw/p139_11.jpg",
+      "name": "Nancy Donovan",
+      "bw": "bw/p139_11.jpg",
       "color": "color/p139_11.jpg",
       "bw_hi": "bw_hi/p139_11.jpg",
       "width": 772,
@@ -1312,7 +1313,7 @@
         1767
       ],
       "name": "Sheri Donovan",
-      "bw": "../bw/p139_12.jpg",
+      "bw": "bw/p139_12.jpg",
       "color": "color/p139_12.jpg",
       "bw_hi": "bw_hi/p139_12.jpg",
       "width": 774,
@@ -1331,8 +1332,8 @@
         1080,
         2535
       ],
-      "name": "",
-      "bw": "../bw/p139_13.jpg",
+      "name": "Sheri Donovan",
+      "bw": "bw/p139_13.jpg",
       "color": "color/p139_13.jpg",
       "bw_hi": "bw_hi/p139_13.jpg",
       "width": 2080,
@@ -1352,7 +1353,7 @@
         546
       ],
       "name": "Jill Codute",
-      "bw": "../bw/p139_2.jpg",
+      "bw": "bw/p139_2.jpg",
       "color": "color/p139_2.jpg",
       "bw_hi": "bw_hi/p139_2.jpg",
       "width": 732,
@@ -1372,7 +1373,7 @@
         617
       ],
       "name": "Collette Collis",
-      "bw": "../bw/p139_3.jpg",
+      "bw": "bw/p139_3.jpg",
       "color": "color/p139_3.jpg",
       "bw_hi": "bw_hi/p139_3.jpg",
       "width": 668,
@@ -1392,7 +1393,7 @@
         613
       ],
       "name": "Connie Condon",
-      "bw": "../bw/p139_4.jpg",
+      "bw": "bw/p139_4.jpg",
       "color": "color/p139_4.jpg",
       "bw_hi": "bw_hi/p139_4.jpg",
       "width": 718,
@@ -1412,7 +1413,7 @@
         613
       ],
       "name": "Colleen Corrigan",
-      "bw": "../bw/p139_5.jpg",
+      "bw": "bw/p139_5.jpg",
       "color": "color/p139_5.jpg",
       "bw_hi": "bw_hi/p139_5.jpg",
       "width": 732,
@@ -1431,8 +1432,8 @@
         397,
         1089
       ],
-      "name": "",
-      "bw": "../bw/p139_6.jpg",
+      "name": "Jay Daniel",
+      "bw": "bw/p139_6.jpg",
       "color": "color/p139_6.jpg",
       "bw_hi": "bw_hi/p139_6.jpg",
       "width": 542,
@@ -1452,7 +1453,7 @@
         1224
       ],
       "name": "Patricia Danko",
-      "bw": "../bw/p139_7.jpg",
+      "bw": "bw/p139_7.jpg",
       "color": "color/p139_7.jpg",
       "bw_hi": "bw_hi/p139_7.jpg",
       "width": 742,
@@ -1472,7 +1473,7 @@
         1226
       ],
       "name": "Carol Dean",
-      "bw": "../bw/p139_8.jpg",
+      "bw": "bw/p139_8.jpg",
       "color": "color/p139_8.jpg",
       "bw_hi": "bw_hi/p139_8.jpg",
       "width": 750,
@@ -1492,7 +1493,7 @@
         1226
       ],
       "name": "Margaret Deeb",
-      "bw": "../bw/p139_9.jpg",
+      "bw": "bw/p139_9.jpg",
       "color": "color/p139_9.jpg",
       "bw_hi": "bw_hi/p139_9.jpg",
       "width": 700,
@@ -1511,8 +1512,8 @@
         544,
         618
       ],
-      "name": "",
-      "bw": "../bw/p140_1.jpg",
+      "name": "Douglas Dziadzio",
+      "bw": "bw/p140_1.jpg",
       "color": "color/p140_1.jpg",
       "bw_hi": "bw_hi/p140_1.jpg",
       "width": 772,
@@ -1531,8 +1532,8 @@
         2022,
         2391
       ],
-      "name": "Must Your Homework",
-      "bw": "../bw/p140_10.jpg",
+      "name": "Joe Hart",
+      "bw": "bw/p140_10.jpg",
       "color": "color/p140_10.jpg",
       "bw_hi": "bw_hi/p140_10.jpg",
       "width": 2164,
@@ -1551,8 +1552,8 @@
         591,
         2657
       ],
-      "name": "",
-      "bw": "../bw/p140_11.jpg",
+      "name": "Michael Horn",
+      "bw": "bw/p140_11.jpg",
       "color": "color/p140_11.jpg",
       "bw_hi": "bw_hi/p140_11.jpg",
       "width": 1142,
@@ -1572,7 +1573,7 @@
         2386
       ],
       "name": "Janet Howell",
-      "bw": "../bw/p140_12.jpg",
+      "bw": "bw/p140_12.jpg",
       "color": "color/p140_12.jpg",
       "bw_hi": "bw_hi/p140_12.jpg",
       "width": 774,
@@ -1592,7 +1593,7 @@
         618
       ],
       "name": "James Embach",
-      "bw": "../bw/p140_2.jpg",
+      "bw": "bw/p140_2.jpg",
       "color": "color/p140_2.jpg",
       "bw_hi": "bw_hi/p140_2.jpg",
       "width": 1036,
@@ -1611,8 +1612,8 @@
         1231,
         620
       ],
-      "name": "Ine Evanoff",
-      "bw": "../bw/p140_3.jpg",
+      "name": "Marianne Evanoff",
+      "bw": "bw/p140_3.jpg",
       "color": "color/p140_3.jpg",
       "bw_hi": "bw_hi/p140_3.jpg",
       "width": 418,
@@ -1632,7 +1633,7 @@
         622
       ],
       "name": "Mary Falls",
-      "bw": "../bw/p140_4.jpg",
+      "bw": "bw/p140_4.jpg",
       "color": "color/p140_4.jpg",
       "bw_hi": "bw_hi/p140_4.jpg",
       "width": 752,
@@ -1652,7 +1653,7 @@
         611
       ],
       "name": "Doreen Fenech",
-      "bw": "../bw/p140_5.jpg",
+      "bw": "bw/p140_5.jpg",
       "color": "color/p140_5.jpg",
       "bw_hi": "bw_hi/p140_5.jpg",
       "width": 724,
@@ -1671,8 +1672,8 @@
         520,
         1224
       ],
-      "name": "",
-      "bw": "../bw/p140_6.jpg",
+      "name": "Richard Genslak",
+      "bw": "bw/p140_6.jpg",
       "color": "color/p140_6.jpg",
       "bw_hi": "bw_hi/p140_6.jpg",
       "width": 724,
@@ -1692,7 +1693,7 @@
         1222
       ],
       "name": "Paula Geoffrey",
-      "bw": "../bw/p140_7.jpg",
+      "bw": "bw/p140_7.jpg",
       "color": "color/p140_7.jpg",
       "bw_hi": "bw_hi/p140_7.jpg",
       "width": 710,
@@ -1711,8 +1712,8 @@
         524,
         1726
       ],
-      "name": "",
-      "bw": "../bw/p140_8.jpg",
+      "name": "Lisa Guerriero",
+      "bw": "bw/p140_8.jpg",
       "color": "color/p140_8.jpg",
       "bw_hi": "bw_hi/p140_8.jpg",
       "width": 702,
@@ -1731,8 +1732,8 @@
         904,
         1702
       ],
-      "name": "",
-      "bw": "../bw/p140_9.jpg",
+      "name": "Linda Hamway",
+      "bw": "bw/p140_9.jpg",
       "color": "color/p140_9.jpg",
       "bw_hi": "bw_hi/p140_9.jpg",
       "width": 640,
@@ -1752,7 +1753,7 @@
         538
       ],
       "name": "Renee Filiatraut",
-      "bw": "../bw/p141_1.jpg",
+      "bw": "bw/p141_1.jpg",
       "color": "color/p141_1.jpg",
       "bw_hi": "bw_hi/p141_1.jpg",
       "width": 738,
@@ -1772,7 +1773,7 @@
         1226
       ],
       "name": "Scott Grochulski",
-      "bw": "../bw/p141_10.jpg",
+      "bw": "bw/p141_10.jpg",
       "color": "color/p141_10.jpg",
       "bw_hi": "bw_hi/p141_10.jpg",
       "width": 578,
@@ -1792,7 +1793,7 @@
         1820
       ],
       "name": "Mary Harkiewicz",
-      "bw": "../bw/p141_11.jpg",
+      "bw": "bw/p141_11.jpg",
       "color": "color/p141_11.jpg",
       "bw_hi": "bw_hi/p141_11.jpg",
       "width": 608,
@@ -1812,7 +1813,7 @@
         1826
       ],
       "name": "Joseph Hart",
-      "bw": "../bw/p141_12.jpg",
+      "bw": "bw/p141_12.jpg",
       "color": "color/p141_12.jpg",
       "bw_hi": "bw_hi/p141_12.jpg",
       "width": 578,
@@ -1832,7 +1833,7 @@
         1826
       ],
       "name": "Jill Hatty",
-      "bw": "../bw/p141_13.jpg",
+      "bw": "bw/p141_13.jpg",
       "color": "color/p141_13.jpg",
       "bw_hi": "bw_hi/p141_13.jpg",
       "width": 810,
@@ -1851,8 +1852,8 @@
         1464,
         1824
       ],
-      "name": "Kavin Hoen",
-      "bw": "../bw/p141_14.jpg",
+      "name": "Kevin Hoen",
+      "bw": "bw/p141_14.jpg",
       "color": "color/p141_14.jpg",
       "bw_hi": "bw_hi/p141_14.jpg",
       "width": 484,
@@ -1872,7 +1873,7 @@
         1831
       ],
       "name": "Kurt Hofner",
-      "bw": "../bw/p141_15.jpg",
+      "bw": "bw/p141_15.jpg",
       "color": "color/p141_15.jpg",
       "bw_hi": "bw_hi/p141_15.jpg",
       "width": 590,
@@ -1892,12 +1893,12 @@
         2515
       ],
       "name": "",
-      "bw": "../bw/p141_16.jpg",
+      "bw": "bw/p141_16.jpg",
       "color": "color/p141_16.jpg",
       "bw_hi": "bw_hi/p141_16.jpg",
       "width": 720,
       "height": 1276,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -1912,12 +1913,12 @@
         2519
       ],
       "name": "",
-      "bw": "../bw/p141_17.jpg",
+      "bw": "bw/p141_17.jpg",
       "color": "color/p141_17.jpg",
       "bw_hi": "bw_hi/p141_17.jpg",
       "width": 720,
       "height": 1244,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -1932,12 +1933,12 @@
         2517
       ],
       "name": "",
-      "bw": "../bw/p141_18.jpg",
+      "bw": "bw/p141_18.jpg",
       "color": "color/p141_18.jpg",
       "bw_hi": "bw_hi/p141_18.jpg",
       "width": 724,
       "height": 1234,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -1952,7 +1953,7 @@
         2426
       ],
       "name": "Lora Hurley",
-      "bw": "../bw/p141_19.jpg",
+      "bw": "bw/p141_19.jpg",
       "color": "color/p141_19.jpg",
       "bw_hi": "bw_hi/p141_19.jpg",
       "width": 568,
@@ -1972,7 +1973,7 @@
         600
       ],
       "name": "Mary Jane Fitzgerald",
-      "bw": "../bw/p141_2.jpg",
+      "bw": "bw/p141_2.jpg",
       "color": "color/p141_2.jpg",
       "bw_hi": "bw_hi/p141_2.jpg",
       "width": 756,
@@ -1992,7 +1993,7 @@
         2435
       ],
       "name": "Suzette Husted",
-      "bw": "../bw/p141_20.jpg",
+      "bw": "bw/p141_20.jpg",
       "color": "color/p141_20.jpg",
       "bw_hi": "bw_hi/p141_20.jpg",
       "width": 832,
@@ -2012,7 +2013,7 @@
         615
       ],
       "name": "Paul Galea",
-      "bw": "../bw/p141_3.jpg",
+      "bw": "bw/p141_3.jpg",
       "color": "color/p141_3.jpg",
       "bw_hi": "bw_hi/p141_3.jpg",
       "width": 552,
@@ -2032,7 +2033,7 @@
         615
       ],
       "name": "Patrick Gallucci",
-      "bw": "../bw/p141_4.jpg",
+      "bw": "bw/p141_4.jpg",
       "color": "color/p141_4.jpg",
       "bw_hi": "bw_hi/p141_4.jpg",
       "width": 716,
@@ -2052,7 +2053,7 @@
         615
       ],
       "name": "Carole Gehringer",
-      "bw": "../bw/p141_5.jpg",
+      "bw": "bw/p141_5.jpg",
       "color": "color/p141_5.jpg",
       "bw_hi": "bw_hi/p141_5.jpg",
       "width": 640,
@@ -2072,7 +2073,7 @@
         1122
       ],
       "name": "Rita Girardi",
-      "bw": "../bw/p141_6.jpg",
+      "bw": "bw/p141_6.jpg",
       "color": "color/p141_6.jpg",
       "bw_hi": "bw_hi/p141_6.jpg",
       "width": 772,
@@ -2092,7 +2093,7 @@
         1133
       ],
       "name": "Karen Gorski",
-      "bw": "../bw/p141_7.jpg",
+      "bw": "bw/p141_7.jpg",
       "color": "color/p141_7.jpg",
       "bw_hi": "bw_hi/p141_7.jpg",
       "width": 560,
@@ -2112,7 +2113,7 @@
         1162
       ],
       "name": "Marie Grabowski",
-      "bw": "../bw/p141_8.jpg",
+      "bw": "bw/p141_8.jpg",
       "color": "color/p141_8.jpg",
       "bw_hi": "bw_hi/p141_8.jpg",
       "width": 644,
@@ -2132,7 +2133,7 @@
         1226
       ],
       "name": "Michael Goff",
-      "bw": "../bw/p141_9.jpg",
+      "bw": "bw/p141_9.jpg",
       "color": "color/p141_9.jpg",
       "bw_hi": "bw_hi/p141_9.jpg",
       "width": 596,
@@ -2151,8 +2152,8 @@
         513,
         628
       ],
-      "name": "Frank Laquinta",
-      "bw": "../bw/p142_1.jpg",
+      "name": "Frank Iaquinta",
+      "bw": "bw/p142_1.jpg",
       "color": "color/p142_1.jpg",
       "bw_hi": "bw_hi/p142_1.jpg",
       "width": 716,
@@ -2172,7 +2173,7 @@
         1239
       ],
       "name": "James Lanning",
-      "bw": "../bw/p142_10.jpg",
+      "bw": "bw/p142_10.jpg",
       "color": "color/p142_10.jpg",
       "bw_hi": "bw_hi/p142_10.jpg",
       "width": 640,
@@ -2192,7 +2193,7 @@
         1839
       ],
       "name": "David Makowski",
-      "bw": "../bw/p142_11.jpg",
+      "bw": "bw/p142_11.jpg",
       "color": "color/p142_11.jpg",
       "bw_hi": "bw_hi/p142_11.jpg",
       "width": 604,
@@ -2212,7 +2213,7 @@
         1834
       ],
       "name": "Nancy Mankowski",
-      "bw": "../bw/p142_12.jpg",
+      "bw": "bw/p142_12.jpg",
       "color": "color/p142_12.jpg",
       "bw_hi": "bw_hi/p142_12.jpg",
       "width": 700,
@@ -2231,8 +2232,8 @@
         1210,
         1726
       ],
-      "name": "",
-      "bw": "../bw/p142_13.jpg",
+      "name": "Richard Marcyan",
+      "bw": "bw/p142_13.jpg",
       "color": "color/p142_13.jpg",
       "bw_hi": "bw_hi/p142_13.jpg",
       "width": 546,
@@ -2251,8 +2252,8 @@
         1626,
         1841
       ],
-      "name": "Robern Marcyan",
-      "bw": "../bw/p142_14.jpg",
+      "name": "Robert Marcyan",
+      "bw": "bw/p142_14.jpg",
       "color": "color/p142_14.jpg",
       "bw_hi": "bw_hi/p142_14.jpg",
       "width": 760,
@@ -2272,7 +2273,7 @@
         1750
       ],
       "name": "Julie Matuszewski",
-      "bw": "../bw/p142_15.jpg",
+      "bw": "bw/p142_15.jpg",
       "color": "color/p142_15.jpg",
       "bw_hi": "bw_hi/p142_15.jpg",
       "width": 724,
@@ -2292,7 +2293,7 @@
         2454
       ],
       "name": "Daniel McCarthy",
-      "bw": "../bw/p142_16.jpg",
+      "bw": "bw/p142_16.jpg",
       "color": "color/p142_16.jpg",
       "bw_hi": "bw_hi/p142_16.jpg",
       "width": 750,
@@ -2312,7 +2313,7 @@
         2443
       ],
       "name": "Sheila McCormick",
-      "bw": "../bw/p142_17.jpg",
+      "bw": "bw/p142_17.jpg",
       "color": "color/p142_17.jpg",
       "bw_hi": "bw_hi/p142_17.jpg",
       "width": 768,
@@ -2331,13 +2332,13 @@
         1528,
         2523
       ],
-      "name": "MEGS Wet",
-      "bw": "../bw/p142_18.jpg",
+      "name": "",
+      "bw": "bw/p142_18.jpg",
       "color": "color/p142_18.jpg",
       "bw_hi": "bw_hi/p142_18.jpg",
       "width": 1204,
       "height": 1222,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -2352,12 +2353,12 @@
         2523
       ],
       "name": "",
-      "bw": "../bw/p142_19.jpg",
+      "bw": "bw/p142_19.jpg",
       "color": "color/p142_19.jpg",
       "bw_hi": "bw_hi/p142_19.jpg",
       "width": 1030,
       "height": 1270,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -2372,7 +2373,7 @@
         624
       ],
       "name": "Darin Johnson",
-      "bw": "../bw/p142_2.jpg",
+      "bw": "bw/p142_2.jpg",
       "color": "color/p142_2.jpg",
       "bw_hi": "bw_hi/p142_2.jpg",
       "width": 752,
@@ -2392,12 +2393,12 @@
         2643
       ],
       "name": "",
-      "bw": "../bw/p142_20.jpg",
+      "bw": "bw/p142_20.jpg",
       "color": "color/p142_20.jpg",
       "bw_hi": "bw_hi/p142_20.jpg",
       "width": 532,
       "height": 760,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -2412,7 +2413,7 @@
         624
       ],
       "name": "Karen Kalvelage",
-      "bw": "../bw/p142_3.jpg",
+      "bw": "bw/p142_3.jpg",
       "color": "color/p142_3.jpg",
       "bw_hi": "bw_hi/p142_3.jpg",
       "width": 710,
@@ -2432,7 +2433,7 @@
         626
       ],
       "name": "Christine Kasprzyk",
-      "bw": "../bw/p142_4.jpg",
+      "bw": "bw/p142_4.jpg",
       "color": "color/p142_4.jpg",
       "bw_hi": "bw_hi/p142_4.jpg",
       "width": 790,
@@ -2452,7 +2453,7 @@
         622
       ],
       "name": "John Killian",
-      "bw": "../bw/p142_5.jpg",
+      "bw": "bw/p142_5.jpg",
       "color": "color/p142_5.jpg",
       "bw_hi": "bw_hi/p142_5.jpg",
       "width": 786,
@@ -2472,7 +2473,7 @@
         1233
       ],
       "name": "Mark Kraska",
-      "bw": "../bw/p142_6.jpg",
+      "bw": "bw/p142_6.jpg",
       "color": "color/p142_6.jpg",
       "bw_hi": "bw_hi/p142_6.jpg",
       "width": 736,
@@ -2492,7 +2493,7 @@
         1237
       ],
       "name": "Lisa Lane",
-      "bw": "../bw/p142_7.jpg",
+      "bw": "bw/p142_7.jpg",
       "color": "color/p142_7.jpg",
       "bw_hi": "bw_hi/p142_7.jpg",
       "width": 746,
@@ -2511,8 +2512,8 @@
         1570,
         1124
       ],
-      "name": "",
-      "bw": "../bw/p142_8.jpg",
+      "name": "Carolyn Lentz",
+      "bw": "bw/p142_8.jpg",
       "color": "color/p142_8.jpg",
       "bw_hi": "bw_hi/p142_8.jpg",
       "width": 546,
@@ -2531,8 +2532,8 @@
         1985,
         1233
       ],
-      "name": "",
-      "bw": "../bw/p142_9.jpg",
+      "name": "Linda Lewandowski",
+      "bw": "bw/p142_9.jpg",
       "color": "color/p142_9.jpg",
       "bw_hi": "bw_hi/p142_9.jpg",
       "width": 758,
@@ -2551,8 +2552,8 @@
         455,
         622
       ],
-      "name": "",
-      "bw": "../bw/p143_1.jpg",
+      "name": "Laurie Klemczak",
+      "bw": "bw/p143_1.jpg",
       "color": "color/p143_1.jpg",
       "bw_hi": "bw_hi/p143_1.jpg",
       "width": 736,
@@ -2572,7 +2573,7 @@
         2327
       ],
       "name": "Mary Beth Monley",
-      "bw": "../bw/p143_10.jpg",
+      "bw": "bw/p143_10.jpg",
       "color": "color/p143_10.jpg",
       "bw_hi": "bw_hi/p143_10.jpg",
       "width": 1506,
@@ -2591,13 +2592,13 @@
         1894,
         2365
       ],
-      "name": "Teresa Siegle All",
-      "bw": "../bw/p143_11.jpg",
+      "name": "",
+      "bw": "bw/p143_11.jpg",
       "color": "color/p143_11.jpg",
       "bw_hi": "bw_hi/p143_11.jpg",
       "width": 524,
       "height": 1496,
-      "type": "portrait",
+      "type": "candid",
       "confidence": 0.85,
       "colorized": true
     },
@@ -2612,7 +2613,7 @@
         2530
       ],
       "name": "",
-      "bw": "../bw/p143_12.jpg",
+      "bw": "bw/p143_12.jpg",
       "color": "color/p143_12.jpg",
       "bw_hi": "bw_hi/p143_12.jpg",
       "width": 1736,
@@ -2632,7 +2633,7 @@
         582
       ],
       "name": "Ann Konchal",
-      "bw": "../bw/p143_2.jpg",
+      "bw": "bw/p143_2.jpg",
       "color": "color/p143_2.jpg",
       "bw_hi": "bw_hi/p143_2.jpg",
       "width": 706,
@@ -2652,7 +2653,7 @@
         615
       ],
       "name": "Kevin Kosmyna",
-      "bw": "../bw/p143_3.jpg",
+      "bw": "bw/p143_3.jpg",
       "color": "color/p143_3.jpg",
       "bw_hi": "bw_hi/p143_3.jpg",
       "width": 614,
@@ -2672,7 +2673,7 @@
         609
       ],
       "name": "Mark Kowalewski",
-      "bw": "../bw/p143_4.jpg",
+      "bw": "bw/p143_4.jpg",
       "color": "color/p143_4.jpg",
       "bw_hi": "bw_hi/p143_4.jpg",
       "width": 578,
@@ -2692,7 +2693,7 @@
         609
       ],
       "name": "Damien Kozak",
-      "bw": "../bw/p143_5.jpg",
+      "bw": "bw/p143_5.jpg",
       "color": "color/p143_5.jpg",
       "bw_hi": "bw_hi/p143_5.jpg",
       "width": 812,
@@ -2712,7 +2713,7 @@
         1226
       ],
       "name": "Lisa Lewandowski",
-      "bw": "../bw/p143_6.jpg",
+      "bw": "bw/p143_6.jpg",
       "color": "color/p143_6.jpg",
       "bw_hi": "bw_hi/p143_6.jpg",
       "width": 734,
@@ -2731,8 +2732,8 @@
         822,
         1097
       ],
-      "name": "",
-      "bw": "../bw/p143_7.jpg",
+      "name": "Christopher Longe",
+      "bw": "bw/p143_7.jpg",
       "color": "color/p143_7.jpg",
       "bw_hi": "bw_hi/p143_7.jpg",
       "width": 752,
@@ -2751,8 +2752,8 @@
         1466,
         1219
       ],
-      "name": "Rey Ellen MacLeod",
-      "bw": "../bw/p143_8.jpg",
+      "name": "Ellen MacLeod",
+      "bw": "bw/p143_8.jpg",
       "color": "color/p143_8.jpg",
       "bw_hi": "bw_hi/p143_8.jpg",
       "width": 894,
@@ -2772,7 +2773,7 @@
         1217
       ],
       "name": "Elaine Majcher",
-      "bw": "../bw/p143_9.jpg",
+      "bw": "bw/p143_9.jpg",
       "color": "color/p143_9.jpg",
       "bw_hi": "bw_hi/p143_9.jpg",
       "width": 892,
