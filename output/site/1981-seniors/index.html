@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Clarion 1981 Seniors</title>
+<style>
+  :root { --bg:#1a1714; --card:#2a241e; --ink:#f3ebe1; --muted:#b9a99a; --accent:#c4a574; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: Georgia, "Times New Roman", serif; background:var(--bg); color:var(--ink); }
+  header { padding:1.5rem 1.25rem 0.75rem; max-width:1200px; margin:0 auto; }
+  .nav { margin:0 0 0.75rem; font-size:0.9rem; }
+  .nav a { color:var(--accent); text-decoration:none; }
+  .nav a:hover { text-decoration:underline; }
+  h1 { margin:0 0 0.25rem; font-weight:600; letter-spacing:0.02em; }
+  .sub { color:var(--muted); font-size:0.95rem; }
+  .toolbar { display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center; margin:1rem 0 0.5rem; }
+  input[type=search] { flex:1; min-width:180px; padding:0.55rem 0.75rem; border-radius:8px; border:1px solid #4a3f34; background:#120f0c; color:var(--ink); }
+  .count { color:var(--muted); font-size:0.85rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:1rem; padding:1rem 1.25rem 3rem; max-width:1200px; margin:0 auto; }
+  .card { background:var(--card); border-radius:10px; overflow:hidden; cursor:pointer; border:1px solid #3a3129; transition:transform .15s ease; }
+  .card:hover { transform:translateY(-2px); border-color:var(--accent); }
+  .morph { position:relative; aspect-ratio:3/4; background:#0d0b09; }
+  .morph img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .morph .color { opacity:0; transition:opacity .45s ease; }
+  .card:hover .color, .card.active .color { opacity:1; }
+  .meta { padding:0.55rem 0.65rem 0.7rem; }
+  .name { font-size:0.92rem; margin:0; }
+  .page { margin:0.15rem 0 0; color:var(--muted); font-size:0.75rem; font-family:system-ui,sans-serif; }
+  .slider-wrap { padding:0 0.65rem 0.65rem; }
+  input[type=range] { width:100%; }
+  dialog { border:none; border-radius:12px; padding:0; background:var(--card); color:var(--ink); max-width:min(92vw,520px); }
+  dialog::backdrop { background:rgba(0,0,0,.65); }
+  .dlg-body { padding:1rem; }
+  .dlg-morph { position:relative; width:100%; aspect-ratio:3/4; background:#0d0b09; border-radius:8px; overflow:hidden; }
+  .dlg-morph img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .dlg-morph .color { opacity:0; }
+  .dlg-actions { display:flex; gap:0.5rem; margin-top:0.75rem; align-items:center; }
+  button { background:#3d342b; color:var(--ink); border:1px solid #5a4c3e; border-radius:8px; padding:0.4rem 0.75rem; cursor:pointer; }
+  button:hover { border-color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <p class="nav"><a href="../index.html">&larr; All Clarion yearbooks</a></p>
+  <h1>Clarion 1981 Seniors</h1>
+  <p class="sub">Hover or click a portrait to morph from the cleaned B&amp;W crop into the colorized upscale.</p>
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Search by name…" autocomplete="off"/>
+    <span class="count" id="count"></span>
+  </div>
+</header>
+<main class="grid" id="grid"></main>
+<dialog id="dlg">
+  <div class="dlg-body">
+    <div class="dlg-morph" id="dlgMorph">
+      <img class="bw" alt=""/>
+      <img class="color" alt=""/>
+    </div>
+    <h2 class="name" id="dlgName" style="margin:0.75rem 0 0.15rem"></h2>
+    <p class="page" id="dlgPage"></p>
+    <div class="dlg-actions">
+      <label class="page">Morph</label>
+      <input id="dlgRange" type="range" min="0" max="100" value="0" style="flex:1"/>
+      <button id="dlgClose" type="button">Close</button>
+    </div>
+  </div>
+</dialog>
+<script>
+async function main() {
+  const res = await fetch('catalog.json');
+  const data = await res.json();
+  const photos = (data.photos || []).filter(p => p.type !== 'candid' && p.bw_hi && p.color);
+  const grid = document.getElementById('grid');
+  const q = document.getElementById('q');
+  const count = document.getElementById('count');
+  const dlg = document.getElementById('dlg');
+  const dlgMorph = document.getElementById('dlgMorph');
+  const dlgName = document.getElementById('dlgName');
+  const dlgPage = document.getElementById('dlgPage');
+  const dlgRange = document.getElementById('dlgRange');
+  document.getElementById('dlgClose').onclick = () => dlg.close();
+
+  function render(list) {
+    grid.innerHTML = '';
+    count.textContent = list.length + ' portraits';
+    for (const p of list) {
+      const card = document.createElement('article');
+      card.className = 'card';
+      card.dataset.name = (p.name || '').toLowerCase();
+      card.innerHTML = `
+        <div class="morph">
+          <img class="bw" src="${p.bw_hi}" alt="${p.name || p.id} B&W" loading="lazy"/>
+          <img class="color" src="${p.color}" alt="${p.name || p.id} color" loading="lazy"/>
+        </div>
+        <div class="meta">
+          <p class="name">${p.name || '(unnamed)'}</p>
+          <p class="page">p.${p.page} · ${p.type}</p>
+        </div>
+        <div class="slider-wrap"><input type="range" min="0" max="100" value="0" aria-label="Morph"/></div>`;
+      const range = card.querySelector('input[type=range]');
+      const colorImg = card.querySelector('.color');
+      range.addEventListener('input', () => { colorImg.style.opacity = range.value / 100; });
+      card.querySelector('.morph').addEventListener('click', () => openDlg(p));
+      grid.appendChild(card);
+    }
+  }
+  function openDlg(p) {
+    dlgMorph.querySelector('.bw').src = p.bw_hi;
+    const c = dlgMorph.querySelector('.color');
+    c.src = p.color; c.style.opacity = 0;
+    dlgName.textContent = p.name || '(unnamed)';
+    dlgPage.textContent = `Page ${p.page} · ${p.id}`;
+    dlgRange.value = 0;
+    dlg.showModal();
+  }
+  dlgRange.addEventListener('input', () => {
+    dlgMorph.querySelector('.color').style.opacity = dlgRange.value / 100;
+  });
+  q.addEventListener('input', () => {
+    const needle = q.value.trim().toLowerCase();
+    const filtered = !needle ? photos : photos.filter(p => (p.name || '').toLowerCase().includes(needle) || p.id.includes(needle));
+    render(filtered);
+  });
+  render(photos);
+}
+main();
+</script>
+</body>
+</html>

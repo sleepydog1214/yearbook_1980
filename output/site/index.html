@@ -32,7 +32,7 @@
     border: 1px solid #000; transition: transform 0.15s;
   }
   .book:hover { transform: translateY(-6px); outline: 2px solid var(--accent); }
-  .book img { width: 100%; display: block; }
+  .book img { width: 100%; display: block; aspect-ratio: 3/4; object-fit: cover; background: #0d0b09; }
   .book .label { padding: 0.8rem; text-align: center; }
   .book .label b { font-size: 1.2rem; letter-spacing: 0.05em; }
   .book .label div { color: var(--dim); font-size: 0.85rem; margin-top: 0.2rem; }
@@ -52,6 +52,10 @@
   <a class="book" href="1981/">
     <img src="1981/pages/p001.jpg" alt="Clarion 1981 cover">
     <div class="label"><b>1981</b><div>Browse the book, photos &amp; search</div></div>
+  </a>
+  <a class="book" href="1981-seniors/">
+    <img src="1981-seniors/color/p134_2.jpg" alt="Clarion 1981 Seniors morph gallery">
+    <div class="label"><b>1981 Seniors</b><div>B&amp;W &rarr; color morph gallery</div></div>
   </a>
 </main>
 <footer>Scanned, restored, and colorized from the original yearbooks.</footer>

@@ -1,0 +1,2785 @@
+{
+  "book": "Clarion 1981 Seniors",
+  "photos": [
+    {
+      "id": "p134_1",
+      "page": 134,
+      "scan": "IMG_2026_09_06_14_31_49L.jpg",
+      "bbox": [
+        1457,
+        300,
+        1721,
+        662
+      ],
+      "name": "",
+      "bw": "../bw/p134_1.jpg",
+      "color": "color/p134_1.jpg",
+      "bw_hi": "bw_hi/p134_1.jpg",
+      "width": 528,
+      "height": 724,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p134_2",
+      "page": 134,
+      "scan": "IMG_2026_09_06_14_31_49L.jpg",
+      "bbox": [
+        877,
+        859,
+        1142,
+        1328
+      ],
+      "name": "Mary Quinn",
+      "bw": "../bw/p134_2.jpg",
+      "color": "color/p134_2.jpg",
+      "bw_hi": "bw_hi/p134_2.jpg",
+      "width": 530,
+      "height": 938,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p134_3",
+      "page": 134,
+      "scan": "IMG_2026_09_06_14_31_49L.jpg",
+      "bbox": [
+        1095,
+        935,
+        1226,
+        1237
+      ],
+      "name": "",
+      "bw": "../bw/p134_3.jpg",
+      "color": "color/p134_3.jpg",
+      "bw_hi": "bw_hi/p134_3.jpg",
+      "width": 262,
+      "height": 604,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p134_4",
+      "page": 134,
+      "scan": "IMG_2026_09_06_14_31_49L.jpg",
+      "bbox": [
+        364,
+        1446,
+        697,
+        2012
+      ],
+      "name": "Mike Meade",
+      "bw": "../bw/p134_4.jpg",
+      "color": "color/p134_4.jpg",
+      "bw_hi": "bw_hi/p134_4.jpg",
+      "width": 666,
+      "height": 1132,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p134_5",
+      "page": 134,
+      "scan": "IMG_2026_09_06_14_31_49L.jpg",
+      "bbox": [
+        904,
+        1635,
+        1213,
+        2043
+      ],
+      "name": "",
+      "bw": "../bw/p134_5.jpg",
+      "color": "color/p134_5.jpg",
+      "bw_hi": "bw_hi/p134_5.jpg",
+      "width": 618,
+      "height": 816,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_1",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        275,
+        298,
+        646,
+        802
+      ],
+      "name": "Michelle Carson",
+      "bw": "../bw/p135_1.jpg",
+      "color": "color/p135_1.jpg",
+      "bw_hi": "bw_hi/p135_1.jpg",
+      "width": 742,
+      "height": 1008,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_2",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        29,
+        1113,
+        286,
+        1444
+      ],
+      "name": "",
+      "bw": "../bw/p135_2.jpg",
+      "color": "color/p135_2.jpg",
+      "bw_hi": "bw_hi/p135_2.jpg",
+      "width": 514,
+      "height": 662,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_3",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        853,
+        864,
+        1170,
+        1388
+      ],
+      "name": "Brian Quinn",
+      "bw": "../bw/p135_3.jpg",
+      "color": "color/p135_3.jpg",
+      "bw_hi": "bw_hi/p135_3.jpg",
+      "width": 634,
+      "height": 1048,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_4",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        264,
+        1270,
+        822,
+        2028
+      ],
+      "name": "",
+      "bw": "../bw/p135_4.jpg",
+      "color": "color/p135_4.jpg",
+      "bw_hi": "bw_hi/p135_4.jpg",
+      "width": 1116,
+      "height": 1516,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_5",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        800,
+        1630,
+        1177,
+        2152
+      ],
+      "name": "Jack Furlong",
+      "bw": "../bw/p135_5.jpg",
+      "color": "color/p135_5.jpg",
+      "bw_hi": "bw_hi/p135_5.jpg",
+      "width": 754,
+      "height": 1044,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p135_6",
+      "page": 135,
+      "scan": "IMG_2026_09_06_14_31_49R.jpg",
+      "bbox": [
+        1339,
+        1475,
+        1703,
+        1997
+      ],
+      "name": "Shannon Chiado",
+      "bw": "../bw/p135_6.jpg",
+      "color": "color/p135_6.jpg",
+      "bw_hi": "bw_hi/p135_6.jpg",
+      "width": 728,
+      "height": 1044,
+      "type": "officer",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_1",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        176,
+        220,
+        538,
+        747
+      ],
+      "name": "Kevin Adams",
+      "bw": "../bw/p136_1.jpg",
+      "color": "color/p136_1.jpg",
+      "bw_hi": "bw_hi/p136_1.jpg",
+      "width": 724,
+      "height": 1054,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_10",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        1265,
+        856,
+        1625,
+        1289
+      ],
+      "name": "",
+      "bw": "../bw/p136_10.jpg",
+      "color": "color/p136_10.jpg",
+      "bw_hi": "bw_hi/p136_10.jpg",
+      "width": 720,
+      "height": 866,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_11",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        1707,
+        833,
+        1998,
+        1209
+      ],
+      "name": "",
+      "bw": "../bw/p136_11.jpg",
+      "color": "color/p136_11.jpg",
+      "bw_hi": "bw_hi/p136_11.jpg",
+      "width": 582,
+      "height": 752,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_12",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        580,
+        1476,
+        922,
+        1960
+      ],
+      "name": "Donald Boyk",
+      "bw": "../bw/p136_12.jpg",
+      "color": "color/p136_12.jpg",
+      "bw_hi": "bw_hi/p136_12.jpg",
+      "width": 684,
+      "height": 968,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_13",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        993,
+        1414,
+        2031,
+        2554
+      ],
+      "name": "",
+      "bw": "../bw/p136_13.jpg",
+      "color": "color/p136_13.jpg",
+      "bw_hi": "bw_hi/p136_13.jpg",
+      "width": 2076,
+      "height": 2280,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_2",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        553,
+        222,
+        898,
+        747
+      ],
+      "name": "Paul Alcala",
+      "bw": "../bw/p136_2.jpg",
+      "color": "color/p136_2.jpg",
+      "bw_hi": "bw_hi/p136_2.jpg",
+      "width": 690,
+      "height": 1050,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_3",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        949,
+        289,
+        1131,
+        620
+      ],
+      "name": "",
+      "bw": "../bw/p136_3.jpg",
+      "color": "color/p136_3.jpg",
+      "bw_hi": "bw_hi/p136_3.jpg",
+      "width": 364,
+      "height": 662,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_4",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        1256,
+        253,
+        1636,
+        756
+      ],
+      "name": "",
+      "bw": "../bw/p136_4.jpg",
+      "color": "color/p136_4.jpg",
+      "bw_hi": "bw_hi/p136_4.jpg",
+      "width": 760,
+      "height": 1006,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_5",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        1656,
+        258,
+        1998,
+        729
+      ],
+      "name": "Laura Barclay",
+      "bw": "../bw/p136_5.jpg",
+      "color": "color/p136_5.jpg",
+      "bw_hi": "bw_hi/p136_5.jpg",
+      "width": 684,
+      "height": 942,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_6",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        729,
+        527,
+        1251,
+        742
+      ],
+      "name": "",
+      "bw": "../bw/p136_6.jpg",
+      "color": "color/p136_6.jpg",
+      "bw_hi": "bw_hi/p136_6.jpg",
+      "width": 1044,
+      "height": 430,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_7",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        178,
+        825,
+        542,
+        1356
+      ],
+      "name": "William Bezverkov",
+      "bw": "../bw/p136_7.jpg",
+      "color": "color/p136_7.jpg",
+      "bw_hi": "bw_hi/p136_7.jpg",
+      "width": 728,
+      "height": 1062,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_8",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        580,
+        853,
+        860,
+        1240
+      ],
+      "name": "",
+      "bw": "../bw/p136_8.jpg",
+      "color": "color/p136_8.jpg",
+      "bw_hi": "bw_hi/p136_8.jpg",
+      "width": 560,
+      "height": 774,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p136_9",
+      "page": 136,
+      "scan": "IMG_2026_09_06_14_32_00L.jpg",
+      "bbox": [
+        896,
+        849,
+        1271,
+        1358
+      ],
+      "name": "Lynne Bielak",
+      "bw": "../bw/p136_9.jpg",
+      "color": "color/p136_9.jpg",
+      "bw_hi": "bw_hi/p136_9.jpg",
+      "width": 750,
+      "height": 1018,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_1",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        113,
+        262,
+        367,
+        616
+      ],
+      "name": "",
+      "bw": "../bw/p137_1.jpg",
+      "color": "color/p137_1.jpg",
+      "bw_hi": "bw_hi/p137_1.jpg",
+      "width": 508,
+      "height": 708,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_10",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1567,
+        840,
+        1900,
+        1340
+      ],
+      "name": "Bernadette Boruta",
+      "bw": "../bw/p137_10.jpg",
+      "color": "color/p137_10.jpg",
+      "bw_hi": "bw_hi/p137_10.jpg",
+      "width": 666,
+      "height": 1000,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_11",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        78,
+        1471,
+        453,
+        1951
+      ],
+      "name": "Katherine Brogan",
+      "bw": "../bw/p137_11.jpg",
+      "color": "color/p137_11.jpg",
+      "bw_hi": "bw_hi/p137_11.jpg",
+      "width": 750,
+      "height": 960,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_12",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        469,
+        1474,
+        816,
+        1876
+      ],
+      "name": "Ann Marie Brookshire",
+      "bw": "../bw/p137_12.jpg",
+      "color": "color/p137_12.jpg",
+      "bw_hi": "bw_hi/p137_12.jpg",
+      "width": 694,
+      "height": 804,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_13",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        851,
+        1474,
+        1107,
+        1791
+      ],
+      "name": "",
+      "bw": "../bw/p137_13.jpg",
+      "color": "color/p137_13.jpg",
+      "bw_hi": "bw_hi/p137_13.jpg",
+      "width": 512,
+      "height": 634,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_14",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1165,
+        1425,
+        1580,
+        1951
+      ],
+      "name": "",
+      "bw": "../bw/p137_14.jpg",
+      "color": "color/p137_14.jpg",
+      "bw_hi": "bw_hi/p137_14.jpg",
+      "width": 830,
+      "height": 1052,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_15",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1560,
+        1420,
+        1900,
+        1951
+      ],
+      "name": "John Bustamante",
+      "bw": "../bw/p137_15.jpg",
+      "color": "color/p137_15.jpg",
+      "bw_hi": "bw_hi/p137_15.jpg",
+      "width": 680,
+      "height": 1062,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_16",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        76,
+        2022,
+        687,
+        2518
+      ],
+      "name": "",
+      "bw": "../bw/p137_16.jpg",
+      "color": "color/p137_16.jpg",
+      "bw_hi": "bw_hi/p137_16.jpg",
+      "width": 1222,
+      "height": 992,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_17",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        685,
+        2034,
+        1249,
+        2525
+      ],
+      "name": "",
+      "bw": "../bw/p137_17.jpg",
+      "color": "color/p137_17.jpg",
+      "bw_hi": "bw_hi/p137_17.jpg",
+      "width": 1128,
+      "height": 982,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_18",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1247,
+        2031,
+        1447,
+        2516
+      ],
+      "name": "",
+      "bw": "../bw/p137_18.jpg",
+      "color": "color/p137_18.jpg",
+      "bw_hi": "bw_hi/p137_18.jpg",
+      "width": 400,
+      "height": 970,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_19",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1429,
+        2027,
+        1967,
+        2520
+      ],
+      "name": "",
+      "bw": "../bw/p137_19.jpg",
+      "color": "color/p137_19.jpg",
+      "bw_hi": "bw_hi/p137_19.jpg",
+      "width": 1076,
+      "height": 986,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_2",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        505,
+        258,
+        760,
+        611
+      ],
+      "name": "",
+      "bw": "../bw/p137_2.jpg",
+      "color": "color/p137_2.jpg",
+      "bw_hi": "bw_hi/p137_2.jpg",
+      "width": 510,
+      "height": 706,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_3",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        782,
+        249,
+        1127,
+        749
+      ],
+      "name": "Susan Berry",
+      "bw": "../bw/p137_3.jpg",
+      "color": "color/p137_3.jpg",
+      "bw_hi": "bw_hi/p137_3.jpg",
+      "width": 690,
+      "height": 1000,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_4",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1140,
+        240,
+        1462,
+        742
+      ],
+      "name": "",
+      "bw": "../bw/p137_4.jpg",
+      "color": "color/p137_4.jpg",
+      "bw_hi": "bw_hi/p137_4.jpg",
+      "width": 644,
+      "height": 1004,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_5",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1514,
+        200,
+        1885,
+        729
+      ],
+      "name": "Debra Beschke",
+      "bw": "../bw/p137_5.jpg",
+      "color": "color/p137_5.jpg",
+      "bw_hi": "bw_hi/p137_5.jpg",
+      "width": 742,
+      "height": 1058,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_6",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        109,
+        873,
+        371,
+        1211
+      ],
+      "name": "",
+      "bw": "../bw/p137_6.jpg",
+      "color": "color/p137_6.jpg",
+      "bw_hi": "bw_hi/p137_6.jpg",
+      "width": 524,
+      "height": 676,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_7",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        269,
+        862,
+        776,
+        1349
+      ],
+      "name": "Skiewicz James Blazo",
+      "bw": "../bw/p137_7.jpg",
+      "color": "color/p137_7.jpg",
+      "bw_hi": "bw_hi/p137_7.jpg",
+      "width": 1014,
+      "height": 974,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_8",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        865,
+        862,
+        1120,
+        1269
+      ],
+      "name": "",
+      "bw": "../bw/p137_8.jpg",
+      "color": "color/p137_8.jpg",
+      "bw_hi": "bw_hi/p137_8.jpg",
+      "width": 510,
+      "height": 814,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p137_9",
+      "page": 137,
+      "scan": "IMG_2026_09_06_14_32_00R.jpg",
+      "bbox": [
+        1207,
+        853,
+        1478,
+        1142
+      ],
+      "name": "",
+      "bw": "../bw/p137_9.jpg",
+      "color": "color/p137_9.jpg",
+      "bw_hi": "bw_hi/p137_9.jpg",
+      "width": 542,
+      "height": 578,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_1",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        166,
+        121,
+        530,
+        498
+      ],
+      "name": "",
+      "bw": "../bw/p138_1.jpg",
+      "color": "color/p138_1.jpg",
+      "bw_hi": "bw_hi/p138_1.jpg",
+      "width": 728,
+      "height": 754,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_10",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1643,
+        712,
+        1989,
+        1250
+      ],
+      "name": "John DaMour",
+      "bw": "../bw/p138_10.jpg",
+      "color": "color/p138_10.jpg",
+      "bw_hi": "bw_hi/p138_10.jpg",
+      "width": 692,
+      "height": 1076,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_11",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        200,
+        1354,
+        483,
+        1859
+      ],
+      "name": "Armand Del Rosario",
+      "bw": "../bw/p138_11.jpg",
+      "color": "color/p138_11.jpg",
+      "bw_hi": "bw_hi/p138_11.jpg",
+      "width": 566,
+      "height": 1010,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_12",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        566,
+        1351,
+        898,
+        1859
+      ],
+      "name": "Michael Denton",
+      "bw": "../bw/p138_12.jpg",
+      "color": "color/p138_12.jpg",
+      "bw_hi": "bw_hi/p138_12.jpg",
+      "width": 664,
+      "height": 1016,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_13",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        907,
+        1365,
+        1241,
+        1780
+      ],
+      "name": "Mary Depper",
+      "bw": "../bw/p138_13.jpg",
+      "color": "color/p138_13.jpg",
+      "bw_hi": "bw_hi/p138_13.jpg",
+      "width": 668,
+      "height": 830,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_14",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1241,
+        1369,
+        1560,
+        1866
+      ],
+      "name": "",
+      "bw": "../bw/p138_14.jpg",
+      "color": "color/p138_14.jpg",
+      "bw_hi": "bw_hi/p138_14.jpg",
+      "width": 638,
+      "height": 994,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_15",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1607,
+        1358,
+        1964,
+        1863
+      ],
+      "name": "James Dolkowski",
+      "bw": "../bw/p138_15.jpg",
+      "color": "color/p138_15.jpg",
+      "bw_hi": "bw_hi/p138_15.jpg",
+      "width": 714,
+      "height": 1010,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_16",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        516,
+        1933,
+        891,
+        2425
+      ],
+      "name": "Annette Dubois",
+      "bw": "../bw/p138_16.jpg",
+      "color": "color/p138_16.jpg",
+      "bw_hi": "bw_hi/p138_16.jpg",
+      "width": 750,
+      "height": 984,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_17",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        952,
+        1931,
+        1167,
+        2562
+      ],
+      "name": "",
+      "bw": "../bw/p138_17.jpg",
+      "color": "color/p138_17.jpg",
+      "bw_hi": "bw_hi/p138_17.jpg",
+      "width": 430,
+      "height": 1262,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_18",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1140,
+        1928,
+        1998,
+        2562
+      ],
+      "name": "",
+      "bw": "../bw/p138_18.jpg",
+      "color": "color/p138_18.jpg",
+      "bw_hi": "bw_hi/p138_18.jpg",
+      "width": 1716,
+      "height": 1268,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_19",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        22,
+        1926,
+        534,
+        2685
+      ],
+      "name": "",
+      "bw": "../bw/p138_19.jpg",
+      "color": "color/p138_19.jpg",
+      "bw_hi": "bw_hi/p138_19.jpg",
+      "width": 1024,
+      "height": 1518,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_2",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        950,
+        121,
+        1208,
+        501
+      ],
+      "name": "",
+      "bw": "../bw/p138_2.jpg",
+      "color": "color/p138_2.jpg",
+      "bw_hi": "bw_hi/p138_2.jpg",
+      "width": 516,
+      "height": 760,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_3",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1325,
+        101,
+        1612,
+        498
+      ],
+      "name": "",
+      "bw": "../bw/p138_3.jpg",
+      "color": "color/p138_3.jpg",
+      "bw_hi": "bw_hi/p138_3.jpg",
+      "width": 574,
+      "height": 794,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_4",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        528,
+        117,
+        891,
+        622
+      ],
+      "name": "Lisa Carr",
+      "bw": "../bw/p138_4.jpg",
+      "color": "color/p138_4.jpg",
+      "bw_hi": "bw_hi/p138_4.jpg",
+      "width": 726,
+      "height": 1010,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_5",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1632,
+        92,
+        1991,
+        604
+      ],
+      "name": "",
+      "bw": "../bw/p138_5.jpg",
+      "color": "color/p138_5.jpg",
+      "bw_hi": "bw_hi/p138_5.jpg",
+      "width": 718,
+      "height": 1024,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_6",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        900,
+        748,
+        1226,
+        1093
+      ],
+      "name": "",
+      "bw": "../bw/p138_6.jpg",
+      "color": "color/p138_6.jpg",
+      "bw_hi": "bw_hi/p138_6.jpg",
+      "width": 652,
+      "height": 690,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_7",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        1239,
+        748,
+        1621,
+        1188
+      ],
+      "name": "Patrice Czapski",
+      "bw": "../bw/p138_7.jpg",
+      "color": "color/p138_7.jpg",
+      "bw_hi": "bw_hi/p138_7.jpg",
+      "width": 764,
+      "height": 880,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_8",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        224,
+        739,
+        537,
+        1235
+      ],
+      "name": "Louise Creagh",
+      "bw": "../bw/p138_8.jpg",
+      "color": "color/p138_8.jpg",
+      "bw_hi": "bw_hi/p138_8.jpg",
+      "width": 626,
+      "height": 992,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p138_9",
+      "page": 138,
+      "scan": "IMG_2026_09_06_14_32_13L.jpg",
+      "bbox": [
+        561,
+        732,
+        846,
+        1235
+      ],
+      "name": "Robert Cupchak",
+      "bw": "../bw/p138_9.jpg",
+      "color": "color/p138_9.jpg",
+      "bw_hi": "bw_hi/p138_9.jpg",
+      "width": 570,
+      "height": 1006,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_1",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        67,
+        130,
+        418,
+        620
+      ],
+      "name": "Lisa Ciotta",
+      "bw": "../bw/p139_1.jpg",
+      "color": "color/p139_1.jpg",
+      "bw_hi": "bw_hi/p139_1.jpg",
+      "width": 702,
+      "height": 980,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_10",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1533,
+        721,
+        1897,
+        1224
+      ],
+      "name": "Karen DeGuise",
+      "bw": "../bw/p139_10.jpg",
+      "color": "color/p139_10.jpg",
+      "bw_hi": "bw_hi/p139_10.jpg",
+      "width": 728,
+      "height": 1006,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_11",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1120,
+        1345,
+        1506,
+        1836
+      ],
+      "name": "Nancy Donovan Four",
+      "bw": "../bw/p139_11.jpg",
+      "color": "color/p139_11.jpg",
+      "bw_hi": "bw_hi/p139_11.jpg",
+      "width": 772,
+      "height": 982,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_12",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1506,
+        1343,
+        1893,
+        1767
+      ],
+      "name": "Sheri Donovan",
+      "bw": "../bw/p139_12.jpg",
+      "color": "color/p139_12.jpg",
+      "bw_hi": "bw_hi/p139_12.jpg",
+      "width": 774,
+      "height": 848,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_13",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        40,
+        1273,
+        1080,
+        2535
+      ],
+      "name": "",
+      "bw": "../bw/p139_13.jpg",
+      "color": "color/p139_13.jpg",
+      "bw_hi": "bw_hi/p139_13.jpg",
+      "width": 2080,
+      "height": 2524,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_2",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        458,
+        137,
+        824,
+        546
+      ],
+      "name": "Jill Codute",
+      "bw": "../bw/p139_2.jpg",
+      "color": "color/p139_2.jpg",
+      "bw_hi": "bw_hi/p139_2.jpg",
+      "width": 732,
+      "height": 818,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_3",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        842,
+        128,
+        1176,
+        617
+      ],
+      "name": "Collette Collis",
+      "bw": "../bw/p139_3.jpg",
+      "color": "color/p139_3.jpg",
+      "bw_hi": "bw_hi/p139_3.jpg",
+      "width": 668,
+      "height": 978,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_4",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1174,
+        88,
+        1533,
+        613
+      ],
+      "name": "Connie Condon",
+      "bw": "../bw/p139_4.jpg",
+      "color": "color/p139_4.jpg",
+      "bw_hi": "bw_hi/p139_4.jpg",
+      "width": 718,
+      "height": 1050,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_5",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1515,
+        88,
+        1881,
+        613
+      ],
+      "name": "Colleen Corrigan",
+      "bw": "../bw/p139_5.jpg",
+      "color": "color/p139_5.jpg",
+      "bw_hi": "bw_hi/p139_5.jpg",
+      "width": 732,
+      "height": 1050,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_6",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        126,
+        736,
+        397,
+        1089
+      ],
+      "name": "",
+      "bw": "../bw/p139_6.jpg",
+      "color": "color/p139_6.jpg",
+      "bw_hi": "bw_hi/p139_6.jpg",
+      "width": 542,
+      "height": 706,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_7",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        453,
+        727,
+        824,
+        1224
+      ],
+      "name": "Patricia Danko",
+      "bw": "../bw/p139_7.jpg",
+      "color": "color/p139_7.jpg",
+      "bw_hi": "bw_hi/p139_7.jpg",
+      "width": 742,
+      "height": 994,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_8",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        806,
+        723,
+        1181,
+        1226
+      ],
+      "name": "Carol Dean",
+      "bw": "../bw/p139_8.jpg",
+      "color": "color/p139_8.jpg",
+      "bw_hi": "bw_hi/p139_8.jpg",
+      "width": 750,
+      "height": 1006,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p139_9",
+      "page": 139,
+      "scan": "IMG_2026_09_06_14_32_13R.jpg",
+      "bbox": [
+        1201,
+        721,
+        1551,
+        1226
+      ],
+      "name": "Margaret Deeb",
+      "bw": "../bw/p139_9.jpg",
+      "color": "color/p139_9.jpg",
+      "bw_hi": "bw_hi/p139_9.jpg",
+      "width": 700,
+      "height": 1010,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_1",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        158,
+        91,
+        544,
+        618
+      ],
+      "name": "",
+      "bw": "../bw/p140_1.jpg",
+      "color": "color/p140_1.jpg",
+      "bw_hi": "bw_hi/p140_1.jpg",
+      "width": 772,
+      "height": 1054,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_10",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        940,
+        1033,
+        2022,
+        2391
+      ],
+      "name": "Must Your Homework",
+      "bw": "../bw/p140_10.jpg",
+      "color": "color/p140_10.jpg",
+      "bw_hi": "bw_hi/p140_10.jpg",
+      "width": 2164,
+      "height": 2716,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_11",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        20,
+        1902,
+        591,
+        2657
+      ],
+      "name": "",
+      "bw": "../bw/p140_11.jpg",
+      "color": "color/p140_11.jpg",
+      "bw_hi": "bw_hi/p140_11.jpg",
+      "width": 1142,
+      "height": 1510,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_12",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        511,
+        1926,
+        898,
+        2386
+      ],
+      "name": "Janet Howell",
+      "bw": "../bw/p140_12.jpg",
+      "color": "color/p140_12.jpg",
+      "bw_hi": "bw_hi/p140_12.jpg",
+      "width": 774,
+      "height": 920,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_2",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        522,
+        89,
+        1040,
+        618
+      ],
+      "name": "James Embach",
+      "bw": "../bw/p140_2.jpg",
+      "color": "color/p140_2.jpg",
+      "bw_hi": "bw_hi/p140_2.jpg",
+      "width": 1036,
+      "height": 1058,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_3",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        1022,
+        113,
+        1231,
+        620
+      ],
+      "name": "Ine Evanoff",
+      "bw": "../bw/p140_3.jpg",
+      "color": "color/p140_3.jpg",
+      "bw_hi": "bw_hi/p140_3.jpg",
+      "width": 418,
+      "height": 1014,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_4",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        1235,
+        89,
+        1611,
+        622
+      ],
+      "name": "Mary Falls",
+      "bw": "../bw/p140_4.jpg",
+      "color": "color/p140_4.jpg",
+      "bw_hi": "bw_hi/p140_4.jpg",
+      "width": 752,
+      "height": 1066,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_5",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        1620,
+        80,
+        1982,
+        611
+      ],
+      "name": "Doreen Fenech",
+      "bw": "../bw/p140_5.jpg",
+      "color": "color/p140_5.jpg",
+      "bw_hi": "bw_hi/p140_5.jpg",
+      "width": 724,
+      "height": 1062,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_6",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        158,
+        695,
+        520,
+        1224
+      ],
+      "name": "",
+      "bw": "../bw/p140_6.jpg",
+      "color": "color/p140_6.jpg",
+      "bw_hi": "bw_hi/p140_6.jpg",
+      "width": 724,
+      "height": 1058,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_7",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        540,
+        698,
+        895,
+        1222
+      ],
+      "name": "Paula Geoffrey",
+      "bw": "../bw/p140_7.jpg",
+      "color": "color/p140_7.jpg",
+      "bw_hi": "bw_hi/p140_7.jpg",
+      "width": 710,
+      "height": 1048,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_8",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        173,
+        1315,
+        524,
+        1726
+      ],
+      "name": "",
+      "bw": "../bw/p140_8.jpg",
+      "color": "color/p140_8.jpg",
+      "bw_hi": "bw_hi/p140_8.jpg",
+      "width": 702,
+      "height": 822,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p140_9",
+      "page": 140,
+      "scan": "IMG_2026_09_06_14_32_22L.jpg",
+      "bbox": [
+        584,
+        1324,
+        904,
+        1702
+      ],
+      "name": "",
+      "bw": "../bw/p140_9.jpg",
+      "color": "color/p140_9.jpg",
+      "bw_hi": "bw_hi/p140_9.jpg",
+      "width": 640,
+      "height": 756,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_1",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        98,
+        111,
+        467,
+        538
+      ],
+      "name": "Renee Filiatraut",
+      "bw": "../bw/p141_1.jpg",
+      "color": "color/p141_1.jpg",
+      "bw_hi": "bw_hi/p141_1.jpg",
+      "width": 738,
+      "height": 854,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_10",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1542,
+        731,
+        1831,
+        1226
+      ],
+      "name": "Scott Grochulski",
+      "bw": "../bw/p141_10.jpg",
+      "color": "color/p141_10.jpg",
+      "bw_hi": "bw_hi/p141_10.jpg",
+      "width": 578,
+      "height": 990,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_11",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        140,
+        1320,
+        444,
+        1820
+      ],
+      "name": "Mary Harkiewicz",
+      "bw": "../bw/p141_11.jpg",
+      "color": "color/p141_11.jpg",
+      "bw_hi": "bw_hi/p141_11.jpg",
+      "width": 608,
+      "height": 1000,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_12",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        504,
+        1326,
+        793,
+        1826
+      ],
+      "name": "Joseph Hart",
+      "bw": "../bw/p141_12.jpg",
+      "color": "color/p141_12.jpg",
+      "bw_hi": "bw_hi/p141_12.jpg",
+      "width": 578,
+      "height": 1000,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_13",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        775,
+        1326,
+        1180,
+        1826
+      ],
+      "name": "Jill Hatty",
+      "bw": "../bw/p141_13.jpg",
+      "color": "color/p141_13.jpg",
+      "bw_hi": "bw_hi/p141_13.jpg",
+      "width": 810,
+      "height": 1000,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_14",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1222,
+        1322,
+        1464,
+        1824
+      ],
+      "name": "Kavin Hoen",
+      "bw": "../bw/p141_14.jpg",
+      "color": "color/p141_14.jpg",
+      "bw_hi": "bw_hi/p141_14.jpg",
+      "width": 484,
+      "height": 1004,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_15",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1593,
+        1304,
+        1888,
+        1831
+      ],
+      "name": "Kurt Hofner",
+      "bw": "../bw/p141_15.jpg",
+      "color": "color/p141_15.jpg",
+      "bw_hi": "bw_hi/p141_15.jpg",
+      "width": 590,
+      "height": 1054,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_16",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        53,
+        1877,
+        413,
+        2515
+      ],
+      "name": "",
+      "bw": "../bw/p141_16.jpg",
+      "color": "color/p141_16.jpg",
+      "bw_hi": "bw_hi/p141_16.jpg",
+      "width": 720,
+      "height": 1276,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_17",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        395,
+        1897,
+        755,
+        2519
+      ],
+      "name": "",
+      "bw": "../bw/p141_17.jpg",
+      "color": "color/p141_17.jpg",
+      "bw_hi": "bw_hi/p141_17.jpg",
+      "width": 720,
+      "height": 1244,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_18",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        738,
+        1900,
+        1100,
+        2517
+      ],
+      "name": "",
+      "bw": "../bw/p141_18.jpg",
+      "color": "color/p141_18.jpg",
+      "bw_hi": "bw_hi/p141_18.jpg",
+      "width": 724,
+      "height": 1234,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_19",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1211,
+        1937,
+        1495,
+        2426
+      ],
+      "name": "Lora Hurley",
+      "bw": "../bw/p141_19.jpg",
+      "color": "color/p141_19.jpg",
+      "bw_hi": "bw_hi/p141_19.jpg",
+      "width": 568,
+      "height": 978,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_2",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        460,
+        82,
+        838,
+        600
+      ],
+      "name": "Mary Jane Fitzgerald",
+      "bw": "../bw/p141_2.jpg",
+      "color": "color/p141_2.jpg",
+      "bw_hi": "bw_hi/p141_2.jpg",
+      "width": 756,
+      "height": 1036,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_20",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1477,
+        1906,
+        1893,
+        2435
+      ],
+      "name": "Suzette Husted",
+      "bw": "../bw/p141_20.jpg",
+      "color": "color/p141_20.jpg",
+      "bw_hi": "bw_hi/p141_20.jpg",
+      "width": 832,
+      "height": 1058,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_3",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        886,
+        118,
+        1162,
+        615
+      ],
+      "name": "Paul Galea",
+      "bw": "../bw/p141_3.jpg",
+      "color": "color/p141_3.jpg",
+      "bw_hi": "bw_hi/p141_3.jpg",
+      "width": 552,
+      "height": 994,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_4",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1175,
+        82,
+        1533,
+        615
+      ],
+      "name": "Patrick Gallucci",
+      "bw": "../bw/p141_4.jpg",
+      "color": "color/p141_4.jpg",
+      "bw_hi": "bw_hi/p141_4.jpg",
+      "width": 716,
+      "height": 1066,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_5",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1573,
+        96,
+        1893,
+        615
+      ],
+      "name": "Carole Gehringer",
+      "bw": "../bw/p141_5.jpg",
+      "color": "color/p141_5.jpg",
+      "bw_hi": "bw_hi/p141_5.jpg",
+      "width": 640,
+      "height": 1038,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_6",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        76,
+        684,
+        462,
+        1122
+      ],
+      "name": "Rita Girardi",
+      "bw": "../bw/p141_6.jpg",
+      "color": "color/p141_6.jpg",
+      "bw_hi": "bw_hi/p141_6.jpg",
+      "width": 772,
+      "height": 876,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_7",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        844,
+        733,
+        1124,
+        1133
+      ],
+      "name": "Karen Gorski",
+      "bw": "../bw/p141_7.jpg",
+      "color": "color/p141_7.jpg",
+      "bw_hi": "bw_hi/p141_7.jpg",
+      "width": 560,
+      "height": 800,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_8",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        1202,
+        726,
+        1524,
+        1162
+      ],
+      "name": "Marie Grabowski",
+      "bw": "../bw/p141_8.jpg",
+      "color": "color/p141_8.jpg",
+      "bw_hi": "bw_hi/p141_8.jpg",
+      "width": 644,
+      "height": 872,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p141_9",
+      "page": 141,
+      "scan": "IMG_2026_09_06_14_32_22R.jpg",
+      "bbox": [
+        522,
+        731,
+        820,
+        1226
+      ],
+      "name": "Michael Goff",
+      "bw": "../bw/p141_9.jpg",
+      "color": "color/p141_9.jpg",
+      "bw_hi": "bw_hi/p141_9.jpg",
+      "width": 596,
+      "height": 990,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_1",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        155,
+        133,
+        513,
+        628
+      ],
+      "name": "Frank Laquinta",
+      "bw": "../bw/p142_1.jpg",
+      "color": "color/p142_1.jpg",
+      "bw_hi": "bw_hi/p142_1.jpg",
+      "width": 716,
+      "height": 990,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_10",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        873,
+        740,
+        1193,
+        1239
+      ],
+      "name": "James Lanning",
+      "bw": "../bw/p142_10.jpg",
+      "color": "color/p142_10.jpg",
+      "bw_hi": "bw_hi/p142_10.jpg",
+      "width": 640,
+      "height": 998,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_11",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        227,
+        1355,
+        529,
+        1839
+      ],
+      "name": "David Makowski",
+      "bw": "../bw/p142_11.jpg",
+      "color": "color/p142_11.jpg",
+      "bw_hi": "bw_hi/p142_11.jpg",
+      "width": 604,
+      "height": 968,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_12",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        529,
+        1339,
+        879,
+        1834
+      ],
+      "name": "Nancy Mankowski",
+      "bw": "../bw/p142_12.jpg",
+      "color": "color/p142_12.jpg",
+      "bw_hi": "bw_hi/p142_12.jpg",
+      "width": 700,
+      "height": 990,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_13",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        937,
+        1350,
+        1210,
+        1726
+      ],
+      "name": "",
+      "bw": "../bw/p142_13.jpg",
+      "color": "color/p142_13.jpg",
+      "bw_hi": "bw_hi/p142_13.jpg",
+      "width": 546,
+      "height": 752,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_14",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1246,
+        1348,
+        1626,
+        1841
+      ],
+      "name": "Robern Marcyan",
+      "bw": "../bw/p142_14.jpg",
+      "color": "color/p142_14.jpg",
+      "bw_hi": "bw_hi/p142_14.jpg",
+      "width": 760,
+      "height": 986,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_15",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1628,
+        1339,
+        1990,
+        1750
+      ],
+      "name": "Julie Matuszewski",
+      "bw": "../bw/p142_15.jpg",
+      "color": "color/p142_15.jpg",
+      "bw_hi": "bw_hi/p142_15.jpg",
+      "width": 724,
+      "height": 822,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_16",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        169,
+        1921,
+        544,
+        2454
+      ],
+      "name": "Daniel McCarthy",
+      "bw": "../bw/p142_16.jpg",
+      "color": "color/p142_16.jpg",
+      "bw_hi": "bw_hi/p142_16.jpg",
+      "width": 750,
+      "height": 1066,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_17",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        531,
+        1941,
+        915,
+        2443
+      ],
+      "name": "Sheila McCormick",
+      "bw": "../bw/p142_17.jpg",
+      "color": "color/p142_17.jpg",
+      "bw_hi": "bw_hi/p142_17.jpg",
+      "width": 768,
+      "height": 1004,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_18",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        926,
+        1912,
+        1528,
+        2523
+      ],
+      "name": "MEGS Wet",
+      "bw": "../bw/p142_18.jpg",
+      "color": "color/p142_18.jpg",
+      "bw_hi": "bw_hi/p142_18.jpg",
+      "width": 1204,
+      "height": 1222,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_19",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1499,
+        1888,
+        2014,
+        2523
+      ],
+      "name": "",
+      "bw": "../bw/p142_19.jpg",
+      "color": "color/p142_19.jpg",
+      "bw_hi": "bw_hi/p142_19.jpg",
+      "width": 1030,
+      "height": 1270,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_2",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        497,
+        93,
+        873,
+        624
+      ],
+      "name": "Darin Johnson",
+      "bw": "../bw/p142_2.jpg",
+      "color": "color/p142_2.jpg",
+      "bw_hi": "bw_hi/p142_2.jpg",
+      "width": 752,
+      "height": 1062,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_20",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        29,
+        2263,
+        295,
+        2643
+      ],
+      "name": "",
+      "bw": "../bw/p142_20.jpg",
+      "color": "color/p142_20.jpg",
+      "bw_hi": "bw_hi/p142_20.jpg",
+      "width": 532,
+      "height": 760,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_3",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        871,
+        122,
+        1226,
+        624
+      ],
+      "name": "Karen Kalvelage",
+      "bw": "../bw/p142_3.jpg",
+      "color": "color/p142_3.jpg",
+      "bw_hi": "bw_hi/p142_3.jpg",
+      "width": 710,
+      "height": 1004,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_4",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1213,
+        118,
+        1608,
+        626
+      ],
+      "name": "Christine Kasprzyk",
+      "bw": "../bw/p142_4.jpg",
+      "color": "color/p142_4.jpg",
+      "bw_hi": "bw_hi/p142_4.jpg",
+      "width": 790,
+      "height": 1016,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_5",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1586,
+        107,
+        1979,
+        622
+      ],
+      "name": "John Killian",
+      "bw": "../bw/p142_5.jpg",
+      "color": "color/p142_5.jpg",
+      "bw_hi": "bw_hi/p142_5.jpg",
+      "width": 786,
+      "height": 1030,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_6",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        158,
+        717,
+        526,
+        1233
+      ],
+      "name": "Mark Kraska",
+      "bw": "../bw/p142_6.jpg",
+      "color": "color/p142_6.jpg",
+      "bw_hi": "bw_hi/p142_6.jpg",
+      "width": 736,
+      "height": 1032,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_7",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        513,
+        706,
+        886,
+        1237
+      ],
+      "name": "Lisa Lane",
+      "bw": "../bw/p142_7.jpg",
+      "color": "color/p142_7.jpg",
+      "bw_hi": "bw_hi/p142_7.jpg",
+      "width": 746,
+      "height": 1062,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_8",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1297,
+        746,
+        1570,
+        1124
+      ],
+      "name": "",
+      "bw": "../bw/p142_8.jpg",
+      "color": "color/p142_8.jpg",
+      "bw_hi": "bw_hi/p142_8.jpg",
+      "width": 546,
+      "height": 756,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p142_9",
+      "page": 142,
+      "scan": "IMG_2026_09_06_14_32_52L.jpg",
+      "bbox": [
+        1606,
+        722,
+        1985,
+        1233
+      ],
+      "name": "",
+      "bw": "../bw/p142_9.jpg",
+      "color": "color/p142_9.jpg",
+      "bw_hi": "bw_hi/p142_9.jpg",
+      "width": 758,
+      "height": 1022,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_1",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        87,
+        115,
+        455,
+        622
+      ],
+      "name": "",
+      "bw": "../bw/p143_1.jpg",
+      "color": "color/p143_1.jpg",
+      "bw_hi": "bw_hi/p143_1.jpg",
+      "width": 736,
+      "height": 1014,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_10",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        906,
+        1615,
+        1659,
+        2327
+      ],
+      "name": "Mary Beth Monley",
+      "bw": "../bw/p143_10.jpg",
+      "color": "color/p143_10.jpg",
+      "bw_hi": "bw_hi/p143_10.jpg",
+      "width": 1506,
+      "height": 1424,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_11",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        1632,
+        1617,
+        1894,
+        2365
+      ],
+      "name": "Teresa Siegle All",
+      "bw": "../bw/p143_11.jpg",
+      "color": "color/p143_11.jpg",
+      "bw_hi": "bw_hi/p143_11.jpg",
+      "width": 524,
+      "height": 1496,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_12",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        51,
+        1590,
+        919,
+        2530
+      ],
+      "name": "",
+      "bw": "../bw/p143_12.jpg",
+      "color": "color/p143_12.jpg",
+      "bw_hi": "bw_hi/p143_12.jpg",
+      "width": 1736,
+      "height": 1880,
+      "type": "candid",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_2",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        469,
+        89,
+        822,
+        582
+      ],
+      "name": "Ann Konchal",
+      "bw": "../bw/p143_2.jpg",
+      "color": "color/p143_2.jpg",
+      "bw_hi": "bw_hi/p143_2.jpg",
+      "width": 706,
+      "height": 986,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_3",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        857,
+        107,
+        1164,
+        615
+      ],
+      "name": "Kevin Kosmyna",
+      "bw": "../bw/p143_3.jpg",
+      "color": "color/p143_3.jpg",
+      "bw_hi": "bw_hi/p143_3.jpg",
+      "width": 614,
+      "height": 1016,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_4",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        1208,
+        87,
+        1497,
+        609
+      ],
+      "name": "Mark Kowalewski",
+      "bw": "../bw/p143_4.jpg",
+      "color": "color/p143_4.jpg",
+      "bw_hi": "bw_hi/p143_4.jpg",
+      "width": 578,
+      "height": 1044,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_5",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        1479,
+        87,
+        1885,
+        609
+      ],
+      "name": "Damien Kozak",
+      "bw": "../bw/p143_5.jpg",
+      "color": "color/p143_5.jpg",
+      "bw_hi": "bw_hi/p143_5.jpg",
+      "width": 812,
+      "height": 1044,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_6",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        64,
+        735,
+        431,
+        1226
+      ],
+      "name": "Lisa Lewandowski",
+      "bw": "../bw/p143_6.jpg",
+      "color": "color/p143_6.jpg",
+      "bw_hi": "bw_hi/p143_6.jpg",
+      "width": 734,
+      "height": 982,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_7",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        446,
+        702,
+        822,
+        1097
+      ],
+      "name": "",
+      "bw": "../bw/p143_7.jpg",
+      "color": "color/p143_7.jpg",
+      "bw_hi": "bw_hi/p143_7.jpg",
+      "width": 752,
+      "height": 790,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_8",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        1019,
+        693,
+        1466,
+        1219
+      ],
+      "name": "Rey Ellen MacLeod",
+      "bw": "../bw/p143_8.jpg",
+      "color": "color/p143_8.jpg",
+      "bw_hi": "bw_hi/p143_8.jpg",
+      "width": 894,
+      "height": 1052,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    },
+    {
+      "id": "p143_9",
+      "page": 143,
+      "scan": "IMG_2026_09_06_14_32_52R.jpg",
+      "bbox": [
+        1444,
+        691,
+        1890,
+        1217
+      ],
+      "name": "Elaine Majcher",
+      "bw": "../bw/p143_9.jpg",
+      "color": "color/p143_9.jpg",
+      "bw_hi": "bw_hi/p143_9.jpg",
+      "width": 892,
+      "height": 1052,
+      "type": "portrait",
+      "confidence": 0.85,
+      "colorized": true
+    }
+  ]
+}
