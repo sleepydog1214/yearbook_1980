@@ -43,6 +43,7 @@ from enhance import enhance_photo    # noqa: E402
 from ocr import caption_for, is_text_block, page_text  # noqa: E402
 
 PAGE_JPG_HEIGHT = 1600
+BOOK_DIR = "1980"   # this book's subfolder in the multi-book site
 
 
 def parse_args():
@@ -57,7 +58,7 @@ def parse_args():
 def main() -> int:
     args = parse_args()
     settings = Settings()
-    site = settings.paths["output"] / "site"
+    site = settings.paths["output"] / "site" / BOOK_DIR
     for sub in ("photos", "pages"):
         (site / sub).mkdir(parents=True, exist_ok=True)
     if args.debug:

@@ -31,9 +31,12 @@ from config import Settings  # noqa: E402
 THUMB_WIDTH = 420
 
 
+BOOK_DIR = "1980"   # this book's subfolder in the multi-book site
+
+
 def main() -> int:
     settings = Settings()
-    site = settings.paths["output"] / "site"
+    site = settings.paths["output"] / "site" / BOOK_DIR
     catalog_path = site / "catalog.json"
     catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
 

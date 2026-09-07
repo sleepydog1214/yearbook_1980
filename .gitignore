@@ -16,3 +16,4 @@ __pycache__/
 
 # Detection overlays from --debug runs
 /output/site/debug/
+/output/site/*/debug/
